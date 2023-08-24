@@ -1,0 +1,107 @@
+{
+    "Version": "1.1",
+    "ScriptId": "273903616",
+    "Name": "Magic Broom",
+    "Category": "Vendor",
+    "Microscript": false,
+    "Parts": [
+        {
+            "PartId": "306375328",
+            "StepType": 10.0,
+            "A": "",
+            "B": "16||>0",
+            "C": "900139",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "146427808",
+            "StepType": 0.0,
+            "A": "Do you wish to buy a flying broom?",
+            "B": "Yes please",
+            "C": "I can walk",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "904477056",
+            "StepType": 7.0,
+            "A": "",
+            "B": "1001637||<1.0",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "857814272",
+            "StepType": 27.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "394329664",
+            "StepType": 11.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "577867968",
+            "StepType": 0.0,
+            "A": "Seek out the the air shrine. Return once you have mastered the art of the storm!",
+            "B": "Okay",
+            "C": "Cancel",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "129734192",
+            "StepType": 12.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        }
+    ]
+}

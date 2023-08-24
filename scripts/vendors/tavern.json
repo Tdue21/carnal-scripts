@@ -1,0 +1,121 @@
+{
+    "Version": "1.1",
+    "ScriptId": "524460608",
+    "Name": "Tavern",
+    "Category": "Vendor",
+    "Microscript": false,
+    "Parts": [
+        {
+            "PartId": "126377152",
+            "StepType": 15.0,
+            "A": "Hey, I'm Annabelle.. What can I do you for? A drink? some comapny? Purhaps a relaxing bath?",
+            "B": "You want company?(will broadcast in global);Or maybe a drink?",
+            "C": "Nothing right now.",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "276863936",
+            "StepType": 10.0,
+            "A": "",
+            "B": "4||>2",
+            "C": "",
+            "V": 1.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "472853792",
+            "StepType": 2.0,
+            "A": "I dont need help right now.",
+            "B": "Hub Tavern",
+            "C": "Ok maybe later",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "652882432",
+            "StepType": 30.0,
+            "A": "{{char.name}}: Bastet Resort is now open.",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "118564408",
+            "StepType": 3.0,
+            "A": "Hub Tavern",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "Hub Tavern",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "876644224",
+            "StepType": 11.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "276802880",
+            "StepType": 27.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "163396112",
+            "StepType": 12.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        }
+    ]
+}

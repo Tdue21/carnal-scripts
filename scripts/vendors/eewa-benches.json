@@ -1,0 +1,149 @@
+{
+    "Version": "1.1",
+    "ScriptId": "167210912",
+    "Name": "EEWA Benches",
+    "Category": "Vendor",
+    "Microscript": false,
+    "Parts": [
+        {
+            "PartId": "904263424",
+            "StepType": 15.0,
+            "A": "I have the following benches",
+            "B": "Nether Furnace;Valiant Blacksmith Bench;Legendary Assembly;Witchbowl Cauldron",
+            "C": "Okay",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "781792640",
+            "StepType": 10.0,
+            "A": "",
+            "B": "4||>2",
+            "C": "",
+            "V": 1.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "744346432",
+            "StepType": 36.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 694174016.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "983703168",
+            "StepType": 14.0,
+            "A": "",
+            "B": "4||>2",
+            "C": "",
+            "V": 2.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "86916712",
+            "StepType": 36.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 645649600.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "350718720",
+            "StepType": 14.0,
+            "A": "",
+            "B": "4||>2",
+            "C": "",
+            "V": 3.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "631061760",
+            "StepType": 36.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 155583360.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "932279424",
+            "StepType": 14.0,
+            "A": "",
+            "B": "4||>2",
+            "C": "",
+            "V": 4.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "45564132",
+            "StepType": 36.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 627765696.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "484481344",
+            "StepType": 12.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        }
+    ]
+}

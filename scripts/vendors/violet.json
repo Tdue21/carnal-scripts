@@ -1,0 +1,93 @@
+{
+    "Version": "1.1",
+    "ScriptId": "479384736",
+    "Name": "Violet",
+    "Category": "Vendor",
+    "Microscript": false,
+    "Parts": [
+        {
+            "PartId": "475539424",
+            "StepType": 15.0,
+            "A": "Greetings Traveler, Welcome to the Broken Arrow! You will find we have several refreshing home brews here on tap, so pull up a stool, sit back and enjoy. There is also a peaceful garden to relax from your travels out on the back deck, we hope you enjoy your stay here, (selecting an option will broacast in Global, if not select just looking around)",
+            "B": "I will relax in the garden;A drink please.",
+            "C": "Just looking around",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "817316160",
+            "StepType": 10.0,
+            "A": "",
+            "B": "4||>0",
+            "C": "",
+            "V": 3.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "880367488",
+            "StepType": 30.0,
+            "A": "{{char.name}} is looking for RP at the Broken arrow",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "629230592",
+            "StepType": 11.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "383678720",
+            "StepType": 27.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "977385728",
+            "StepType": 12.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        }
+    ]
+}

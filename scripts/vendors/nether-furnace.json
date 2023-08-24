@@ -1,0 +1,6 @@
+{"Version":"1.1","ScriptId":"694174016","Name":"Nether Furnace","Category":"Vendor","Microscript":false,"Parts":[{"PartId":"610217600","StepType":0.0,"A":"You need:
+
+50 Bricks
+500 Steel Reinforcements
+30 Dragon Powder
+100 Iron Bars","B":"I have those Things","C":"Okay I'll be back","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"729453376","StepType":6.0,"A":"You are missing a few things. Try again","B":"16011||<50.0||>16003||<500.0||>14183||<30.0||>11501||<100.0","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"476363424","StepType":7.0,"A":"","B":"69500325||<1.0","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}

@@ -1,0 +1,205 @@
+{
+    "Version": "1.1",
+    "ScriptId": "549272128",
+    "Name": "Torro's Labyrinth",
+    "Category": "Vendor",
+    "Microscript": false,
+    "Parts": [
+        {
+            "PartId": "733207168",
+            "StepType": 2.0,
+            "A": "The young lady does not wish to speak, come back another day",
+            "B": "Labyrinth",
+            "C": "Ok",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "699056960",
+            "StepType": 10.0,
+            "A": "Labyrinth",
+            "B": "3||>2",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "738334272",
+            "StepType": 15.0,
+            "A": " *The young lady sits sobbing near the fire*",
+            "B": "My lady, what troubles you?",
+            "C": "Leave her be",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "663136704",
+            "StepType": 0.0,
+            "A": " *The young lady looks up to you with tears running down her cheeks* \"I went into some labyrinth out of curiosity and was caught by some big beast that dwelled within its chambers.\" * She pauses for a moment clearly not wanting to recall what happened there* \"I finally managed to escape from the labyrinth, but I can't undo these chains and chastities without the keys.\" * She looks at you with pleading eyes * \"Could you go and find these keys for me?\"",
+            "B": "It shall be done my lady",
+            "C": "Sorry, i cannot help you",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "383281952",
+            "StepType": 0.0,
+            "A": "*The lady stops sobbing and looks up at you with hope in her eyes * \"If i remember correctly it was near the northern wall, I believe the place is called the Anderwelt Labyrinth. I wish you luck, may you be victorious. I shall make it worth your while...\"",
+            "B": "Next",
+            "C": "Cancel",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "596270592",
+            "StepType": 49.0,
+            "A": "Retrieve keys from within the beasts chambers",
+            "B": "Labyrinth",
+            "C": "Required Item",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "138737136",
+            "StepType": 1.0,
+            "A": "Labyrinth",
+            "B": "",
+            "C": "",
+            "V": 1.0,
+            "N": "",
+            "Condition": {
+                "Key": "Labyrinth",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "371654432",
+            "StepType": 11.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "111056856",
+            "StepType": 0.0,
+            "A": "*She looks up to you with hopeful eyes* \"Did you manage to get the keys?\"",
+            "B": "Yes",
+            "C": "No",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "525437184",
+            "StepType": 6.0,
+            "A": "*sobs* Please hurry",
+            "B": "298454007||<1",
+            "C": "Ok",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "193121136",
+            "StepType": 7.0,
+            "A": "",
+            "B": "298454360||<5||>298454231||<1",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "166051216",
+            "StepType": 3.0,
+            "A": "Labyrinth",
+            "B": "",
+            "C": "",
+            "V": -1.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "788567808",
+            "StepType": 0.0,
+            "A": "*The Lady unlocks her chastity and chains tossing them into the fire before she leaps up wrapping her body around you as she lays a greatful kiss upon your lips* \"thank you so much for your help, i am free\"",
+            "B": "Next",
+            "C": "Cancel",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        },
+        {
+            "PartId": "687643072",
+            "StepType": 12.0,
+            "A": "",
+            "B": "",
+            "C": "",
+            "V": 0.0,
+            "N": "",
+            "Condition": {
+                "Key": "None",
+                "Operator": 1.0,
+                "Value": 0.0
+            }
+        }
+    ]
+}

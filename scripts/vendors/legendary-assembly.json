@@ -1,0 +1,4 @@
+{"Version":"1.1","ScriptId":"155583360","Name":"Legendary Assembly","Category":"Vendor","Microscript":false,"Parts":[{"PartId":"323343616","StepType":0.0,"A":"You need:
+
+1 God Krystallion
+80 Bounty Assembly Pieces","B":"I have those Things","C":"Okay I'll be back","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"553453120","StepType":6.0,"A":"You are missing a few things. Try again","B":"69500400||<1.0||>69500235||<80.0","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"887173056","StepType":7.0,"A":"","B":"69500900||<1.0","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}

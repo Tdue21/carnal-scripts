@@ -1,0 +1,6 @@
+{"Version":"1.1","ScriptId":"627765696","Name":"Witchbowl Cauldron","Category":"Vendor","Microscript":false,"Parts":[{"PartId":"152073728","StepType":0.0,"A":"You need:
+
+75 Iron bars
+32 Composite Obsidian
+50 Witchfire Powder
+25 Powder of corruption","B":"Yes.. got it here","C":"Okay.. I'll be back","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"877651264","StepType":6.0,"A":"You are missing a few things. Try again","B":"11501||<75.0||>14152||<32.0||>80532||<50.0||>14184||<25.0","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"498397760","StepType":7.0,"A":"","B":"69500304||<1.0","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}

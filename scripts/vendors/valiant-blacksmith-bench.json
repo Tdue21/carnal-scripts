@@ -1,0 +1,5 @@
+{"Version":"1.1","ScriptId":"645649600","Name":"Valiant Blacksmith's Bench","Category":"Vendor","Microscript":false,"Parts":[{"PartId":"654927168","StepType":0.0,"A":"You need:
+
+15 Star Obsidian Bars
+100 Bricks
+100 Iron Reinforcements","B":"I have those Things","C":"Okay I'll be back","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"969115264","StepType":6.0,"A":"You are missing a few things. Try again","B":"69500320||<15.0||>16011||<100.0||>16002||<100.0","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"963103104","StepType":7.0,"A":"","B":"69500901||<1.0","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}
