@@ -1,0 +1,14 @@
+{"Version":"1.1","ScriptId":"877620736","Name":"Mining Quest","Category":"Quest","Microscript":false,"Parts":[{"PartId":"170262768","StepType":2.0,"A":"I don't have a new assignment for you. Come back later.","B":"Mining","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"989074368","StepType":10.0,"A":"Mining","B":"3||>2","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"590472128","StepType":0.0,"A":"Good to see someone who is not afraid to work for once. I could use some help. You up for it?","B":"Sure... What do you need?","C":"Eh.. not right now.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"820154432","StepType":0.0,"A":"I need you to mine some stuff for me. I'll pay you 5 gold for your help. 
+
+I'd like you to get me the following items: 
+* 1000 onyx, 
+* 1000 tin ore, 
+* 1000 copper and 
+* 1000 titanium.","B":"Alright, I can do that!","C":"Cancel","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"459273056","StepType":49.0,"A":"* 1000 onyx 
+* 1000 tin ore
+* 1000 copper
+* 1000 titanium","B":"Mining","C":"Required minerals","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"350840768","StepType":1.0,"A":"Mining","B":"","C":"","V":1.0,"N":"","Condition":{"Key":"Mining","Operator":1.0,"Value":0.0}},{"PartId":"715414912","StepType":11.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"529892864","StepType":0.0,"A":"Oh, hello. Do you have what I asked for? ","B":"Yes. I've got it right here.","C":"Oh no, I think I missed something.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"148380992","StepType":6.0,"A":"This is not what I asked for. Come back when you have it. Remember, I need: 
+* 1000 onyx,
+* 1000 tin ore,
+* 1000 copper ore and
+* 1000 titanium","B":"900496||<1000.0||>900498||<1000.0||>900499||<1000.0||>901404||<1000.0","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"318185984","StepType":7.0,"A":"","B":"298454360||<5.0","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"861659584","StepType":3.0,"A":"Mining","B":"","C":"","V":43200.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"636036288","StepType":0.0,"A":"Very good. Here's your pay! Now don't go spending it all at once.","B":"Thank you!","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":"348796032","StepType":12.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}
